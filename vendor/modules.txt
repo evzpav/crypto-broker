@@ -1,0 +1,78 @@
+# github.com/Kucoin/kucoin-go-sdk v1.2.2
+github.com/Kucoin/kucoin-go-sdk
+# github.com/deckarep/golang-set v1.7.1
+github.com/deckarep/golang-set
+# github.com/go-openapi/errors v0.19.2
+github.com/go-openapi/errors
+# github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
+github.com/go-telegram-bot-api/telegram-bot-api
+# github.com/google/uuid v1.1.1
+github.com/google/uuid
+# github.com/gorilla/websocket v1.4.1
+github.com/gorilla/websocket
+# github.com/json-iterator/go v1.1.7
+github.com/json-iterator/go
+# github.com/klauspost/compress v1.8.2
+github.com/klauspost/compress/flate
+github.com/klauspost/compress/gzip
+github.com/klauspost/compress/zlib
+# github.com/klauspost/cpuid v1.2.1
+github.com/klauspost/cpuid
+# github.com/konsorten/go-windows-terminal-sequences v1.0.2
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742
+github.com/modern-go/reflect2
+# github.com/nntaoli-project/goex v1.1.0
+github.com/nntaoli-project/goex
+github.com/nntaoli-project/goex/atop
+github.com/nntaoli-project/goex/bigone
+github.com/nntaoli-project/goex/binance
+github.com/nntaoli-project/goex/bitfinex
+github.com/nntaoli-project/goex/bithumb
+github.com/nntaoli-project/goex/bitmex
+github.com/nntaoli-project/goex/bitstamp
+github.com/nntaoli-project/goex/bittrex
+github.com/nntaoli-project/goex/builder
+github.com/nntaoli-project/goex/coinbene
+github.com/nntaoli-project/goex/coinex
+github.com/nntaoli-project/goex/fcoin
+github.com/nntaoli-project/goex/fmex
+github.com/nntaoli-project/goex/gateio
+github.com/nntaoli-project/goex/gdax
+github.com/nntaoli-project/goex/hitbtc
+github.com/nntaoli-project/goex/huobi
+github.com/nntaoli-project/goex/internal/logger
+github.com/nntaoli-project/goex/kraken
+github.com/nntaoli-project/goex/kucoin
+github.com/nntaoli-project/goex/okcoin
+github.com/nntaoli-project/goex/okex
+github.com/nntaoli-project/goex/poloniex
+github.com/nntaoli-project/goex/zb
+# github.com/nubo/jwt v0.0.0-20150918093313-da5b79c3bbaf
+github.com/nubo/jwt
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/rs/zerolog v1.18.0
+github.com/rs/zerolog
+github.com/rs/zerolog/internal/cbor
+github.com/rs/zerolog/internal/json
+# github.com/sirupsen/logrus v1.4.2
+github.com/sirupsen/logrus
+# github.com/technoweenie/multipartstreamer v1.0.1
+github.com/technoweenie/multipartstreamer
+# github.com/valyala/bytebufferpool v1.0.0
+github.com/valyala/bytebufferpool
+# github.com/valyala/fasthttp v1.6.0
+github.com/valyala/fasthttp
+github.com/valyala/fasthttp/fasthttpproxy
+github.com/valyala/fasthttp/fasthttputil
+github.com/valyala/fasthttp/stackless
+# golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
+# golang.org/x/sys v0.0.0-20200124204421-9fbb57f87de9
+golang.org/x/sys/unix
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2

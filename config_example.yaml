@@ -1,0 +1,11 @@
+telegram: 
+  token: token
+  timeout: 60
+  debug: true
+exchanges:
+  - exchange: binance.com
+    public_key: ""
+    secret_key: ""
+  - exchange: bitfinex.com
+    public_key: ""
+    secret_key: ""
